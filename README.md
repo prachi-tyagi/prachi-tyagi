@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 📫 Reach me through prachi.tyagi971@gmail.com or prachityagi@umass.edu
 - 😄 Pronouns: she/her
 
+![It Crowd Programming](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 <table>
   <tr>
     <td>You are visitor</td>
